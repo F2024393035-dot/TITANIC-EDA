@@ -37,9 +37,7 @@ To analyze and visualize the Titanic dataset to identify patterns and relationsh
 The dataset used is the Titanic dataset, originally available from [Kaggle](https://www.kaggle.com/competitions/titanic/data) or various open sources.
 ## 🔗 View Notebook
 [Click here to view the notebook on GitHub]https://github.com/F2024393035-dot/TITANIC-EDA/blob/master/Titanic_EDA.ipynb
-
 ## 💼 Author
-
 **F2024393035-dot**  
 *MS in Data Science student | Aspiring Data Analyst*
 
